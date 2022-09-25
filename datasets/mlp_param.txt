@@ -1,0 +1,1 @@
+{'batch_size': 200, 'num_workers': 4, 'num_classes': 10, 'lr': 0.001, 'weight_decay': 3e-06, 'num_epochs': 200, 'momentum': 0.9, 'size_shape': 138, 'size_shape2': 46, 'size_shape3': 2}

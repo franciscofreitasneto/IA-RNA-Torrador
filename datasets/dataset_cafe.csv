@@ -1,0 +1,49 @@
+grao;temp_amb;umid_amb;batch;arquivo
+cafe_saulo_especial;30.7;0.61;10;../datasets/Torra_Cafe_Saulo_Especial/Torra Batch 1 Cafe Saulo Especial_21-10-14_1541.alog
+cafe_saulo_especial;30.5;0.62;20;../datasets/Torra_Cafe_Saulo_Especial/Torra Batch 2 Cafe Saulo Especial_21-10-14_1556.alog
+cafe_saulo_especial;30.5;0.32;30;../datasets/Torra_Cafe_Saulo_Especial/Torra Batch 3 Cafe Saulo Especial_21-10-14_1608.alog
+cafe_saulo_especial;29.9;0.64;40;../datasets/Torra_Cafe_Saulo_Especial/Torra Batch 4 Cafe Saulo Especial_21-10-14_1623.alog
+cafe_saulo_especial;30.2;0.63;50;../datasets/Torra_Cafe_Saulo_Especial/Torra Batch 5 Cafe Saulo Especial_21-10-14_1638.alog
+cafe_saulo_especial;29.9;0.64;60;../datasets/Torra_Cafe_Saulo_Especial/Torra Batch 6 Cafe Saulo Especial_21-10-14_1651.alog
+cafe_saulo_especial;29.7;0.64;70;../datasets/Torra_Cafe_Saulo_Especial/Torra Batch 7 Cafe Saulo Especial_21-10-14_1703.alog
+cafe_saulo_gourmet;29.9;0.64;10;../datasets/Torra_Cafe_Saulo_Gourmet/Torra Batch 1 Gourmet Saulo Perfil 2_21-10-14_1406.alog
+cafe_saulo_gourmet;30.4;0.64;20;../datasets/Torra_Cafe_Saulo_Gourmet/Torra Batch 2 Cafe Saulo Gourmet_21-10-14_1422.alog
+cafe_saulo_gourmet;30.6;0.64;30;../datasets/Torra_Cafe_Saulo_Gourmet/Torra Batch 3 Cafe Saulo Gourmet__21-10-14_1435.alog
+cafe_saulo_gourmet;31;0.61;40;../datasets/Torra_Cafe_Saulo_Gourmet/Torra Batch 4 Cafe Saulo Gourmet_21-10-14_1452.alog
+cafe_saulo_gourmet;31;0.6;50;../datasets/Torra_Cafe_Saulo_Gourmet/Torra Batch 5 Cafe Saulo Gourmet_21-10-14_1511.alog
+cafe_saulo_especial;31.1;0.52;11;../datasets/cafe_especial_saulo/batch 1 cafe especial Saulo_21-10-28_1429.alog
+cafe_saulo_especial;31.7;0.49;21;../datasets/cafe_especial_saulo/batch 2 cafe especial Saulo_21-10-28_1457.alog
+cafe_saulo_especial;31.2;0.5;31;../datasets/cafe_especial_saulo/batch 3 cafe especial Saulo_21-10-28_1524.alog
+cafe_saulo_especial;30.9;0.52;41;../datasets/cafe_especial_saulo/batch 4 cafe especial Saulo_21-10-28_1539.alog
+cafe_saulo_gourmet;29.2;0.56;11;../datasets/cafe_gourmet_saulo/Batch 1 Gourmet Saulo Perfil 2_21-10-28_0953.alog
+cafe_saulo_gourmet;29.4;0.56;21;../datasets/cafe_gourmet_saulo/Batch 2 Gourmet Saulo Perfil 2_21-10-28_1008.alog
+cafe_saulo_gourmet;29.7;0.54;31;../datasets/cafe_gourmet_saulo/Batch 3 Gourmet Saulo Perfil 2_21-10-28_1023.alog
+cafe_saulo_gourmet;30.1;0.53;41;../datasets/cafe_gourmet_saulo/Batch 4 Gourmet Saulo Perfil 2_21-10-28_1042.alog
+cafe_saulo_gourmet;30.4;0.51;51;../datasets/cafe_gourmet_saulo/Batch 5 Gourmet Saulo Perfil 2_21-10-28_1100.alog
+cafe_saulo_gourmet;30.4;0.51;61;../datasets/cafe_gourmet_saulo/Batch 6 Gourmet Saulo Perfil 2_21-10-28_1135.alog
+vo_mira_arabica;31.4;0.53;10;../datasets/Arabica_Vo_Mira/Batch 1 Arabica Vo Mira Perfil 3_21-10-27_1607.alog
+vo_mira_arabica;31;0.54;20;../datasets/Arabica_Vo_Mira/Batch 2 Arabica Vo Mira Perfil 3_21-10-27_1629.alog
+vo_mira_arabica;30;0.56;30;../datasets/Arabica_Vo_Mira/Batch 3 Arabica Vo Mira Perfil 3_21-10-27_1646.alog
+vo_mira_arabica;30.3;0.57;40;../datasets/Arabica_Vo_Mira/Batch 4 Arabica Vo Mira Perfil 3_21-10-27_1659.alog
+vo_mira_arabica;29.4;0.59;50;../datasets/Arabica_Vo_Mira/Batch 5 Arabica Vo Mira Perfil 3_21-10-27_1718.alog
+vo_mira_arabica;29.1;0.59;60;../datasets/Arabica_Vo_Mira/Batch 6 Arabica Vo Mira Perfil 3_21-10-27_1733.alog
+vo_mira_conilon;29.2;0.64;10;../datasets/Conilon_Vo_Mira/Batch 1 Conilon Vo Mira Perfil 2_21-10-27_1036.alog
+vo_mira_conilon;29.7;0.6;20;../datasets/Conilon_Vo_Mira/Batch 2 Conilon Vo Mira Perfil 2_21-10-27_1059.alog
+vo_mira_conilon;29.9;0.6;30;../datasets/Conilon_Vo_Mira/Batch 3 Conilon Vo Mira Perfil 2_21-10-27_1136.alog
+vo_mira_conilon;30.8;0.56;40;../datasets/Conilon_Vo_Mira/Batch 4 Conilon Vo Mira Perfil 2_21-10-27_1200.alog
+vo_mira_conilon;30.7;0.55;50;../datasets/Conilon_Vo_Mira/Batch 5 Conilon Vo Mira Perfil 2_21-10-27_1235.alog
+vo_mira_conilon;31.7;0.53;60;../datasets/Conilon_Vo_Mira/Batch 6 Conilon Vo Mira Perfil 2_21-10-27_1513.alog
+vo_mira_conilon;31.8;0.52;70;../datasets/Conilon_Vo_Mira/Batch 7 Conilon Vo Mira Perfil 2_21-10-27_1528.alog
+cafe_do_mario;26.1;0.51;10;../datasets/cafe_do_mario/Cafe do Mario Batch 1 Lote 1_21-12-21_1345.alog
+cafe_do_mario;26;0.49;20;../datasets/cafe_do_mario/Cafe do Mario Batch 2 Lote 1_21-12-21_1359.alog
+cafe_do_mario;26.2;0.49;30;../datasets/cafe_do_mario/Cafe do Mario Batch 3 Lote 1_21-12-21_1410.alog
+cafe_do_mario;26.3;0.49;40;../datasets/cafe_do_mario/Cafe do Mario Batch 4 Lote 1_21-12-21_1420.alog
+cafe_do_mario;26.5;0.5;50;../datasets/cafe_do_mario/Cafe do Mario Batch 5 Lote 1_21-12-21_1432.alog
+cafe_do_mario;26.4;0.49;60;../datasets/cafe_do_mario/Cafe do Mario Batch 6 Lote 1_21-12-21_1444.alog
+cafe_do_mario;26.5;0.5;70;../datasets/cafe_do_mario/Cafe do Mario Batch 7 Lote 1_21-12-21_1458.alog
+cafe_do_mario;26.5;0.5;80;../datasets/cafe_do_mario/Cafe do Mario Batch 8 Lote 1_21-12-21_1509.alog
+cafe_do_mario;27;0.49;90;../datasets/cafe_do_mario/Cafe do Mario Batch 9 Lote 1_21-12-21_1519.alog
+cafe_do_mario;26.3;0.54;11;../datasets/cafe_do_mario/Cafe do Mario Batch 1 Peneira 14_21-12-21_1333.alog
+cafe_do_mario;28;0.58;12;../datasets/cafe_do_mario/Cafe do Mario Lote 1 Perfil 2 Espresso_21-12-20_1613.alog
+cafe_do_mario;28;0.58;13;../datasets/cafe_do_mario/Cafe do Mario Lote 1 Perfil 3 Coado_21-12-20_1623.alog
+cafe_do_mario;28;0.58;14;../datasets/cafe_do_mario/Cafe do Mario Lote 1 Perfil Reconhecimento_21-12-20_1601.alog
